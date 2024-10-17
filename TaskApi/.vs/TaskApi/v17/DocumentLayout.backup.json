@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Desktop\\trecias kursas\\presenttask\\TaskApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB5102EA-C5DF-45AD-BAD1-79EA1E1E34B5}|TaskApi.csproj|d:\\desktop\\trecias kursas\\presenttask\\taskapi\\controllers\\reservationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB5102EA-C5DF-45AD-BAD1-79EA1E1E34B5}|TaskApi.csproj|solutionrelative:controllers\\reservationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB5102EA-C5DF-45AD-BAD1-79EA1E1E34B5}|TaskApi.csproj|d:\\desktop\\trecias kursas\\presenttask\\taskapi\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB5102EA-C5DF-45AD-BAD1-79EA1E1E34B5}|TaskApi.csproj|solutionrelative:seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB5102EA-C5DF-45AD-BAD1-79EA1E1E34B5}|TaskApi.csproj|d:\\desktop\\trecias kursas\\presenttask\\taskapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB5102EA-C5DF-45AD-BAD1-79EA1E1E34B5}|TaskApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB5102EA-C5DF-45AD-BAD1-79EA1E1E34B5}|TaskApi.csproj|d:\\desktop\\trecias kursas\\presenttask\\taskapi\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB5102EA-C5DF-45AD-BAD1-79EA1E1E34B5}|TaskApi.csproj|solutionrelative:data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB5102EA-C5DF-45AD-BAD1-79EA1E1E34B5}|TaskApi.csproj|d:\\desktop\\trecias kursas\\presenttask\\taskapi\\dto\\createreservationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB5102EA-C5DF-45AD-BAD1-79EA1E1E34B5}|TaskApi.csproj|solutionrelative:dto\\createreservationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB5102EA-C5DF-45AD-BAD1-79EA1E1E34B5}|TaskApi.csproj|d:\\desktop\\trecias kursas\\presenttask\\taskapi\\dto\\reservationsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB5102EA-C5DF-45AD-BAD1-79EA1E1E34B5}|TaskApi.csproj|solutionrelative:dto\\reservationsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB5102EA-C5DF-45AD-BAD1-79EA1E1E34B5}|TaskApi.csproj|d:\\desktop\\trecias kursas\\presenttask\\taskapi\\mapper\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB5102EA-C5DF-45AD-BAD1-79EA1E1E34B5}|TaskApi.csproj|solutionrelative:mapper\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB5102EA-C5DF-45AD-BAD1-79EA1E1E34B5}|TaskApi.csproj|d:\\desktop\\trecias kursas\\presenttask\\taskapi\\models\\reservations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB5102EA-C5DF-45AD-BAD1-79EA1E1E34B5}|TaskApi.csproj|solutionrelative:models\\reservations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 182,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "D:\\Desktop\\trecias kursas\\presenttask\\TaskApi\\SeedData.cs",
+              "RelativeDocumentMoniker": "SeedData.cs",
+              "ToolTip": "D:\\Desktop\\trecias kursas\\presenttask\\TaskApi\\SeedData.cs",
+              "RelativeToolTip": "SeedData.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAwwBkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T10:54:56.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "D:\\Desktop\\trecias kursas\\presenttask\\TaskApi\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "Data\\DataContext.cs",
+              "ToolTip": "D:\\Desktop\\trecias kursas\\presenttask\\TaskApi\\Data\\DataContext.cs",
+              "RelativeToolTip": "Data\\DataContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T10:54:10.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Reservations.cs",
+              "DocumentMoniker": "D:\\Desktop\\trecias kursas\\presenttask\\TaskApi\\Models\\Reservations.cs",
+              "RelativeDocumentMoniker": "Models\\Reservations.cs",
+              "ToolTip": "D:\\Desktop\\trecias kursas\\presenttask\\TaskApi\\Models\\Reservations.cs",
+              "RelativeToolTip": "Models\\Reservations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T08:23:44.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReservationsDto.cs",
+              "DocumentMoniker": "D:\\Desktop\\trecias kursas\\presenttask\\TaskApi\\Dto\\ReservationsDto.cs",
+              "RelativeDocumentMoniker": "Dto\\ReservationsDto.cs",
+              "ToolTip": "D:\\Desktop\\trecias kursas\\presenttask\\TaskApi\\Dto\\ReservationsDto.cs",
+              "RelativeToolTip": "Dto\\ReservationsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T13:07:26.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReservationsController.cs",
+              "DocumentMoniker": "D:\\Desktop\\trecias kursas\\presenttask\\TaskApi\\Controllers\\ReservationsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ReservationsController.cs",
+              "ToolTip": "D:\\Desktop\\trecias kursas\\presenttask\\TaskApi\\Controllers\\ReservationsController.cs",
+              "RelativeToolTip": "Controllers\\ReservationsController.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAuwIkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T14:38:52.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateReservationDto.cs",
+              "DocumentMoniker": "D:\\Desktop\\trecias kursas\\presenttask\\TaskApi\\Dto\\CreateReservationDto.cs",
+              "RelativeDocumentMoniker": "Dto\\CreateReservationDto.cs",
+              "ToolTip": "D:\\Desktop\\trecias kursas\\presenttask\\TaskApi\\Dto\\CreateReservationDto.cs",
+              "RelativeToolTip": "Dto\\CreateReservationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T13:07:32.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MappingProfiles.cs",
+              "DocumentMoniker": "D:\\Desktop\\trecias kursas\\presenttask\\TaskApi\\Mapper\\MappingProfiles.cs",
+              "RelativeDocumentMoniker": "Mapper\\MappingProfiles.cs",
+              "ToolTip": "D:\\Desktop\\trecias kursas\\presenttask\\TaskApi\\Mapper\\MappingProfiles.cs",
+              "RelativeToolTip": "Mapper\\MappingProfiles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T13:09:01.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Desktop\\trecias kursas\\presenttask\\TaskApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Desktop\\trecias kursas\\presenttask\\TaskApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T14:34:06.401Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
